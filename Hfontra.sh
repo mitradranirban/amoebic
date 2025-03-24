@@ -1,5 +1,5 @@
 #! /bin/bash
 cd /home/artim/devel/fontra
 source venv/bin/activate
-fontra --launch filesystem /home/artim/devel/holihai
+fontra --launch filesystem /home/artim/devel/tinyfunfonts/amœbic/sources
 

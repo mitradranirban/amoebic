@@ -8,7 +8,12 @@
     <dict>
       <key>xyz.fontra.layer-names</key>
       <dict>
-        <key>holihai_default/public.default</key>
+        <key>amœbic_Regular/public.default</key>
+        <string>default</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Regular</key>
         <string>default</string>
       </dict>
     </dict>
