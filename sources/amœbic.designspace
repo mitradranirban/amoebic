@@ -9,6 +9,11 @@
         <dimension name="SHAPE" xvalue="0"/>
       </location>
     </source>
+    <source filename="amœbic_Full.ufo" name="1e1dba8e" familyname="amœbic" stylename="Full">
+      <location>
+        <dimension name="SHAPE" xvalue="100"/>
+      </location>
+    </source>
   </sources>
   <lib>
     <dict>

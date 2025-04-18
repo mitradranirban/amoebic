@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="A" format="2">
+<glyph name="d" format="2">
   <advance width="500"/>
-  <unicode hex="0041"/>
+  <unicode hex="0064"/>
   <outline>
     <contour>
       <point x="333" y="170" type="curve" smooth="yes"/>
@@ -60,7 +60,7 @@
     <dict>
       <key>xyz.fontra.layer-names</key>
       <dict>
-        <key>amœbic_Regular/public.default</key>
+        <key>66a15414</key>
         <string>default</string>
       </dict>
       <key>xyz.fontra.source-names</key>
