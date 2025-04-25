@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="d" format="2">
+<glyph name="exclam" format="2">
   <advance width="500"/>
-  <unicode hex="0064"/>
+  <unicode hex="0021"/>
   <outline>
     <contour>
       <point x="333" y="170" type="curve" smooth="yes"/>
@@ -61,6 +61,11 @@
       <key>xyz.fontra.layer-names</key>
       <dict>
         <key>66a15414</key>
+        <string>default</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Regular</key>
         <string>default</string>
       </dict>
     </dict>

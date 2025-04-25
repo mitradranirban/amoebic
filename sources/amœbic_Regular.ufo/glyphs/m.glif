@@ -65,13 +65,6 @@
         <key>66a15414</key>
         <string>default</string>
       </dict>
-      <key>xyz.fontra.source-names</key>
-      <dict>
-        <key>Full</key>
-        <string>SHAPE=100</string>
-        <key>Regular</key>
-        <string>default</string>
-      </dict>
     </dict>
   </lib>
 </glyph>
