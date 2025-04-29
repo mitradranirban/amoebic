@@ -5,15 +5,19 @@
     <key>ascender</key>
     <integer>750</integer>
     <key>capHeight</key>
-    <integer>750</integer>
-    <key>copyright</key>
-    <string>Copyright 2025 Dr Anirban Mitra</string>
+    <integer>700</integer>
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
     <string>Amœbic</string>
     <key>guidelines</key>
     <array/>
+    <key>openTypeHheaAscender</key>
+    <integer>750</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-250</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Dr Anirban Mitra</string>
     <key>openTypeNameDesignerURL</key>
@@ -26,8 +30,18 @@
     <string>Dr Anirban Mitra</string>
     <key>openTypeNameManufacturerURL</key>
     <string>https://fonts.atipra.in</string>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>750</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-250</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>anir</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>750</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>250</integer>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>

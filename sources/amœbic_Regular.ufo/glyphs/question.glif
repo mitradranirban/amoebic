@@ -42,18 +42,18 @@
       <point x="287" y="372"/>
     </contour>
     <contour>
-      <point x="180" y="438" type="curve" smooth="yes"/>
-      <point x="180" y="434"/>
-      <point x="177" y="430"/>
-      <point x="172" y="430" type="curve" smooth="yes"/>
-      <point x="168" y="430"/>
-      <point x="164" y="434"/>
-      <point x="164" y="438" type="curve" smooth="yes"/>
-      <point x="164" y="443"/>
-      <point x="168" y="447"/>
-      <point x="172" y="447" type="curve"/>
-      <point x="177" y="447"/>
-      <point x="180" y="443"/>
+      <point x="196" y="419" type="curve" smooth="yes"/>
+      <point x="196" y="415"/>
+      <point x="193" y="411"/>
+      <point x="188" y="411" type="curve" smooth="yes"/>
+      <point x="184" y="411"/>
+      <point x="180" y="415"/>
+      <point x="180" y="419" type="curve" smooth="yes"/>
+      <point x="180" y="424"/>
+      <point x="184" y="428"/>
+      <point x="188" y="428" type="curve"/>
+      <point x="193" y="428"/>
+      <point x="196" y="424"/>
     </contour>
   </outline>
 </glyph>
