@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
-    <axis tag="SHPE" name="SHAPE" minimum="0" maximum="100" default="50">
-    </axis>
+    <axis tag="SHPE" name="SHAPE" minimum="0" maximum="100" default="50"/>
   </axes>
   <sources>
     <source filename="amœbic_Default.ufo" name="::fontra000-41c48d31" familyname="amœbic" stylename="Default">
@@ -21,4 +20,21 @@
       </location>
     </source>
   </sources>
+  <lib>
+    <dict>
+      <key>fontra.projectGlyphSets</key>
+      <array>
+        <dict>
+          <key>commentChars</key>
+          <string>#</string>
+          <key>dataFormat</key>
+          <string>glyph-names</string>
+          <key>name</key>
+          <string>GF Latin Kernel</string>
+          <key>url</key>
+          <string>https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Kernel.txt</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </designspace>

@@ -1,0 +1,175 @@
+{
+"axes": {
+"axes": [
+{
+"name": "SHAPE",
+"label": "SHAPE",
+"tag": "SHPE",
+"minValue": 0,
+"defaultValue": 50,
+"maxValue": 100
+}
+]
+},
+"sources": {
+"::fontra000-41c48d31": {
+"name": "Default",
+"location": {
+"SHAPE": 50
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 750,
+"zone": 16
+},
+"capHeight": {
+"value": 725,
+"zone": 16
+},
+"xHeight": {
+"value": 500,
+"zone": 16
+},
+"descender": {
+"value": -250,
+"zone": -16
+},
+"baseline": {
+"value": 0,
+"zone": -16
+}
+}
+},
+"::fontra001-0acab8f8": {
+"name": "Regular",
+"location": {
+"SHAPE": 0
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 750,
+"zone": 16
+},
+"capHeight": {
+"value": 700,
+"zone": 16
+},
+"xHeight": {
+"value": 500,
+"zone": 16
+},
+"descender": {
+"value": -250,
+"zone": -16
+},
+"baseline": {
+"value": 0,
+"zone": -16
+}
+},
+"customData": {
+"openTypeHheaAscender": 750,
+"openTypeHheaDescender": -250,
+"openTypeHheaLineGap": 0,
+"openTypeOS2TypoAscender": 750,
+"openTypeOS2TypoDescender": -250,
+"openTypeOS2TypoLineGap": 0,
+"openTypeOS2WinAscent": 750,
+"openTypeOS2WinDescent": 250
+}
+},
+"::fontra002-697f157d": {
+"name": "Full",
+"location": {
+"SHAPE": 100
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 750,
+"zone": 16
+},
+"capHeight": {
+"value": 750,
+"zone": 16
+},
+"xHeight": {
+"value": 500,
+"zone": 16
+},
+"descender": {
+"value": -250,
+"zone": -16
+},
+"baseline": {
+"value": 0,
+"zone": -16
+}
+}
+}
+},
+"conditionalSubstitutions": {
+"featureTags": [
+"rvrn"
+],
+"rules": []
+},
+"customData": {
+"com.github.googlei18n.ufo2ft.colorPalettes": [
+[
+[
+0.027450980392156862,
+0.011764705882352941,
+0.24705882352941178,
+1
+],
+[
+0.5215686274509804,
+0.6509803921568628,
+0.8196078431372549,
+1
+]
+],
+[
+[
+0.28627450980392155,
+0.0392156862745098,
+0.011764705882352941,
+1
+],
+[
+0.8196078431372549,
+0.5803921568627451,
+0.5215686274509804,
+1
+]
+],
+[
+[
+0.011764705882352941,
+0.28627450980392155,
+0.043137254901960784,
+1
+],
+[
+0.5843137254901961,
+0.8196078431372549,
+0.5215686274509804,
+1
+]
+]
+],
+"fontra.projectGlyphSets": [
+{
+"commentChars": "#",
+"dataFormat": "glyph-names",
+"name": "GF Latin Kernel",
+"url": "https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Kernel.txt"
+}
+],
+"org.colrpak.colorPaletteLabels": [
+"Blue",
+"Red",
+"Green"
+]
+}
+}

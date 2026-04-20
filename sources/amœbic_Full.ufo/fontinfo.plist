@@ -24,6 +24,8 @@
     <string>Dr Anirban Mitra</string>
     <key>openTypeNameManufacturerURL</key>
     <string>https://fonts.atipra.in</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 0.002</string>
     <key>openTypeOS2VendorID</key>
     <string>anir</string>
     <key>unitsPerEm</key>
@@ -31,7 +33,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>xHeight</key>
     <integer>500</integer>
   </dict>

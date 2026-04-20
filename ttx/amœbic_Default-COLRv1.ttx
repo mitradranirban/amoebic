@@ -2858,72 +2858,6 @@
     <BaseGlyphList>
       <!-- BaseGlyphCount=35 -->
       <BaseGlyphPaintRecord index="0">
-        <BaseGlyph value="a"/>
-        <Paint Format="10"><!-- PaintGlyph -->
-          <Paint Format="6"><!-- PaintRadialGradient -->
-            <ColorLine>
-              <Extend value="pad"/>
-              <!-- StopCount=3 -->
-              <ColorStop index="0">
-                <StopOffset value="0.0"/>
-                <PaletteIndex value="0"/>
-                <Alpha value="1.0"/>
-              </ColorStop>
-              <ColorStop index="1">
-                <StopOffset value="0.35"/>
-                <PaletteIndex value="1"/>
-                <Alpha value="1.0"/>
-              </ColorStop>
-              <ColorStop index="2">
-                <StopOffset value="1.0"/>
-                <PaletteIndex value="2"/>
-                <Alpha value="1.0"/>
-              </ColorStop>
-            </ColorLine>
-            <x0 value="550"/>
-            <y0 value="259"/>
-            <r0 value="20"/>
-            <x1 value="520"/>
-            <y1 value="269"/>
-            <r1 value="346"/>
-          </Paint>
-          <Glyph value="a"/>
-        </Paint>
-      </BaseGlyphPaintRecord>
-      <BaseGlyphPaintRecord index="1">
-        <BaseGlyph value="m"/>
-        <Paint Format="10"><!-- PaintGlyph -->
-          <Paint Format="6"><!-- PaintRadialGradient -->
-            <ColorLine>
-              <Extend value="pad"/>
-              <!-- StopCount=3 -->
-              <ColorStop index="0">
-                <StopOffset value="0.0"/>
-                <PaletteIndex value="0"/>
-                <Alpha value="1.0"/>
-              </ColorStop>
-              <ColorStop index="1">
-                <StopOffset value="0.35"/>
-                <PaletteIndex value="1"/>
-                <Alpha value="1.0"/>
-              </ColorStop>
-              <ColorStop index="2">
-                <StopOffset value="1.0"/>
-                <PaletteIndex value="2"/>
-                <Alpha value="1.0"/>
-              </ColorStop>
-            </ColorLine>
-            <x0 value="550"/>
-            <y0 value="259"/>
-            <r0 value="20"/>
-            <x1 value="520"/>
-            <y1 value="269"/>
-            <r1 value="346"/>
-          </Paint>
-          <Glyph value="m"/>
-        </Paint>
-      </BaseGlyphPaintRecord>
-      <BaseGlyphPaintRecord index="2">
         <BaseGlyph value=".notdef"/>
         <Paint Format="10"><!-- PaintGlyph -->
           <Paint Format="6"><!-- PaintRadialGradient -->
@@ -2956,7 +2890,40 @@
           <Glyph value=".notdef"/>
         </Paint>
       </BaseGlyphPaintRecord>
-      <BaseGlyphPaintRecord index="3">
+      <BaseGlyphPaintRecord index="1">
+        <BaseGlyph value="a"/>
+        <Paint Format="10"><!-- PaintGlyph -->
+          <Paint Format="6"><!-- PaintRadialGradient -->
+            <ColorLine>
+              <Extend value="pad"/>
+              <!-- StopCount=3 -->
+              <ColorStop index="0">
+                <StopOffset value="0.0"/>
+                <PaletteIndex value="0"/>
+                <Alpha value="1.0"/>
+              </ColorStop>
+              <ColorStop index="1">
+                <StopOffset value="0.35"/>
+                <PaletteIndex value="1"/>
+                <Alpha value="1.0"/>
+              </ColorStop>
+              <ColorStop index="2">
+                <StopOffset value="1.0"/>
+                <PaletteIndex value="2"/>
+                <Alpha value="1.0"/>
+              </ColorStop>
+            </ColorLine>
+            <x0 value="550"/>
+            <y0 value="259"/>
+            <r0 value="20"/>
+            <x1 value="520"/>
+            <y1 value="269"/>
+            <r1 value="346"/>
+          </Paint>
+          <Glyph value="a"/>
+        </Paint>
+      </BaseGlyphPaintRecord>
+      <BaseGlyphPaintRecord index="2">
         <BaseGlyph value="b"/>
         <Paint Format="10"><!-- PaintGlyph -->
           <Paint Format="6"><!-- PaintRadialGradient -->
@@ -2989,7 +2956,7 @@
           <Glyph value="b"/>
         </Paint>
       </BaseGlyphPaintRecord>
-      <BaseGlyphPaintRecord index="4">
+      <BaseGlyphPaintRecord index="3">
         <BaseGlyph value="c"/>
         <Paint Format="10"><!-- PaintGlyph -->
           <Paint Format="6"><!-- PaintRadialGradient -->
@@ -3020,6 +2987,39 @@
             <r1 value="346"/>
           </Paint>
           <Glyph value="c"/>
+        </Paint>
+      </BaseGlyphPaintRecord>
+      <BaseGlyphPaintRecord index="4">
+        <BaseGlyph value="m"/>
+        <Paint Format="10"><!-- PaintGlyph -->
+          <Paint Format="6"><!-- PaintRadialGradient -->
+            <ColorLine>
+              <Extend value="pad"/>
+              <!-- StopCount=3 -->
+              <ColorStop index="0">
+                <StopOffset value="0.0"/>
+                <PaletteIndex value="0"/>
+                <Alpha value="1.0"/>
+              </ColorStop>
+              <ColorStop index="1">
+                <StopOffset value="0.35"/>
+                <PaletteIndex value="1"/>
+                <Alpha value="1.0"/>
+              </ColorStop>
+              <ColorStop index="2">
+                <StopOffset value="1.0"/>
+                <PaletteIndex value="2"/>
+                <Alpha value="1.0"/>
+              </ColorStop>
+            </ColorLine>
+            <x0 value="550"/>
+            <y0 value="259"/>
+            <r0 value="20"/>
+            <x1 value="520"/>
+            <y1 value="269"/>
+            <r1 value="346"/>
+          </Paint>
+          <Glyph value="m"/>
         </Paint>
       </BaseGlyphPaintRecord>
       <BaseGlyphPaintRecord index="5">

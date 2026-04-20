@@ -5,33 +5,17 @@
     <key>ascender</key>
     <integer>750</integer>
     <key>capHeight</key>
-    <integer>750</integer>
+    <integer>725</integer>
     <key>descender</key>
     <integer>-250</integer>
-    <key>familyName</key>
-    <string>Amœbic</string>
     <key>guidelines</key>
     <array/>
-    <key>openTypeNameDesigner</key>
-    <string>Dr Anirban Mitra</string>
-    <key>openTypeNameDesignerURL</key>
-    <string>https://github.com/mitradranirban</string>
-    <key>openTypeNameLicense</key>
-    <string>SIL Open Font Licence Version 1.1</string>
-    <key>openTypeNameLicenseURL</key>
-    <string>https://openfontlicense.org </string>
-    <key>openTypeNameManufacturer</key>
-    <string>Dr Anirban Mitra</string>
-    <key>openTypeNameManufacturerURL</key>
-    <string>https://fonts.atipra.in</string>
-    <key>openTypeOS2VendorID</key>
-    <string>anir</string>
+    <key>italicAngle</key>
+    <real>0.0</real>
+    <key>styleName</key>
+    <string>Regular</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
-    <key>versionMajor</key>
-    <integer>0</integer>
-    <key>versionMinor</key>
-    <integer>1</integer>
     <key>xHeight</key>
     <integer>500</integer>
   </dict>

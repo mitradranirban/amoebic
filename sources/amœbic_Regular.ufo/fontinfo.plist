@@ -30,6 +30,8 @@
     <string>Dr Anirban Mitra</string>
     <key>openTypeNameManufacturerURL</key>
     <string>https://fonts.atipra.in</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 0.002</string>
     <key>openTypeOS2TypoAscender</key>
     <integer>750</integer>
     <key>openTypeOS2TypoDescender</key>
@@ -47,7 +49,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>xHeight</key>
     <integer>500</integer>
   </dict>

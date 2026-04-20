@@ -1,0 +1,27 @@
+{
+"name": "space",
+"sources": [
+{
+"name": "",
+"layerName": "::fontra000-41c48d31",
+"locationBase": "::fontra000-41c48d31"
+},
+{
+"name": "",
+"layerName": "::fontra002-697f157d",
+"locationBase": "::fontra002-697f157d"
+}
+],
+"layers": {
+"::fontra000-41c48d31": {
+"glyph": {
+"xAdvance": 500
+}
+},
+"::fontra002-697f157d": {
+"glyph": {
+"xAdvance": 500
+}
+}
+}
+}

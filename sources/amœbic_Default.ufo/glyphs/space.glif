@@ -4,4 +4,13 @@
   <unicode hex="0020"/>
   <outline>
   </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>default</key>
+        <string>f6f78e65</string>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

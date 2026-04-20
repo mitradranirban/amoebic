@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="410"/>
+  <advance width="410.0120907566221"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="335" y="296" type="curve" smooth="yes"/>
-      <point x="335" y="318"/>
-      <point x="307" y="369"/>
-      <point x="301" y="388" type="curve" smooth="yes"/>
-      <point x="294" y="408"/>
-      <point x="285" y="439"/>
-      <point x="273" y="455" type="curve" smooth="yes"/>
-      <point x="258" y="475"/>
-      <point x="255" y="589"/>
-      <point x="234" y="601" type="curve" smooth="yes"/>
-      <point x="209" y="615"/>
-      <point x="154" y="538"/>
-      <point x="122" y="538" type="curve" smooth="yes"/>
-      <point x="81" y="538"/>
-      <point x="83" y="542"/>
-      <point x="49" y="524" type="curve" smooth="yes"/>
-      <point x="20" y="508"/>
-      <point x="88" y="530"/>
-      <point x="117" y="479" type="curve" smooth="yes"/>
-      <point x="146" y="427"/>
-      <point x="61" y="66"/>
-      <point x="107" y="76" type="curve" smooth="yes"/>
-      <point x="162" y="88"/>
-      <point x="142" y="16"/>
-      <point x="181" y="19" type="curve" smooth="yes"/>
-      <point x="252" y="25"/>
-      <point x="307" y="58"/>
-      <point x="315" y="59" type="curve" smooth="yes"/>
-      <point x="353" y="65"/>
-      <point x="336" y="47"/>
-      <point x="362" y="73" type="curve" smooth="yes"/>
-      <point x="385" y="94"/>
-      <point x="257" y="104"/>
-      <point x="266" y="135" type="curve" smooth="yes"/>
-      <point x="270" y="152"/>
-      <point x="335" y="277"/>
+      <point x="270" y="122" type="curve" smooth="yes"/>
+      <point x="263" y="141"/>
+      <point x="335" y="289"/>
+      <point x="332" y="309" type="curve" smooth="yes"/>
+      <point x="328" y="343"/>
+      <point x="268" y="450"/>
+      <point x="262" y="469" type="curve" smooth="yes"/>
+      <point x="254" y="492"/>
+      <point x="258" y="586"/>
+      <point x="238" y="599" type="curve" smooth="yes"/>
+      <point x="219" y="610"/>
+      <point x="145" y="535"/>
+      <point x="106" y="529" type="curve" smooth="yes"/>
+      <point x="83" y="529"/>
+      <point x="55" y="541"/>
+      <point x="40" y="521" type="curve" smooth="yes"/>
+      <point x="19" y="501"/>
+      <point x="95" y="530"/>
+      <point x="114" y="474" type="curve" smooth="yes"/>
+      <point x="130" y="427"/>
+      <point x="83" y="127"/>
+      <point x="91" y="69" type="curve" smooth="yes"/>
+      <point x="103" y="30"/>
+      <point x="84" y="80"/>
+      <point x="101" y="75" type="curve" smooth="yes"/>
+      <point x="136" y="76"/>
+      <point x="158" y="15"/>
+      <point x="166" y="16" type="curve" smooth="yes"/>
+      <point x="204" y="22"/>
+      <point x="272" y="39"/>
+      <point x="300" y="54" type="curve" smooth="yes"/>
+      <point x="315" y="65"/>
+      <point x="357" y="48"/>
+      <point x="359" y="65" type="curve" smooth="yes"/>
+      <point x="354" y="79"/>
+      <point x="286" y="91"/>
     </contour>
     <contour>
-      <point x="187" y="518" type="curve" smooth="yes"/>
-      <point x="187" y="514"/>
-      <point x="184" y="510"/>
-      <point x="179" y="510" type="curve" smooth="yes"/>
-      <point x="175" y="510"/>
-      <point x="171" y="514"/>
-      <point x="171" y="518" type="curve" smooth="yes"/>
-      <point x="171" y="523"/>
-      <point x="175" y="527"/>
-      <point x="179" y="527" type="curve"/>
-      <point x="184" y="527"/>
-      <point x="187" y="523"/>
+      <point x="183" y="507" type="curve" smooth="yes"/>
+      <point x="183" y="500"/>
+      <point x="177" y="492"/>
+      <point x="168" y="492" type="curve" smooth="yes"/>
+      <point x="160" y="492"/>
+      <point x="153" y="500"/>
+      <point x="153" y="507" type="curve" smooth="yes"/>
+      <point x="153" y="516"/>
+      <point x="160" y="524"/>
+      <point x="168" y="524" type="curve"/>
+      <point x="177" y="524"/>
+      <point x="183" y="516"/>
     </contour>
   </outline>
 </glyph>
